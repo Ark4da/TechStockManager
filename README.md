@@ -87,7 +87,7 @@ The application allows users to:
 <img width="820" height="390" alt="image" src="https://github.com/user-attachments/assets/998c7fe3-467f-4220-8a72-6e2b60b3e424" />
 
 ## Order Management
-<img width="1024" height="471" alt="image" src="https://github.com/user-attachments/assets/a474eac5-d34f-4e1e-96df-cc431be8fb41" />
+<img width="1024" height="471" alt="image" src="https://github.com/user-attachments/assets/ae0b5c3d-bde1-4baa-b4f8-2a52954e196f" />
 
 ## Product Management
 <img width="1050" height="474" alt="image" src="https://github.com/user-attachments/assets/ff7f3e57-2ac8-4d68-92d1-f10b67dbe95c" />
